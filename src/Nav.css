@@ -1,0 +1,17 @@
+
+
+.navbar1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(211, 206, 206);
+    
+}
+    .navbar{
+        text-decoration: none;
+        text-transform: uppercase;
+        color:blue;
+        
+    }
+    .navbar:hover{
+        color: darkorchid;
+    }

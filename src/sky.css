@@ -1,0 +1,38 @@
+
+
+div{
+    
+    font-size:25px;
+    font-weight: bold;
+    /* justify-content:center;
+    align-items:flex-start; */
+}
+
+ul{
+    /* text-decoration: none; */
+    display: flex;
+    justify-content:space-evenly;
+    /* display:inline-block; */
+    color: rgb(145, 12, 12);
+    list-style: none;
+     
+    
+}
+ul li a{
+    text-decoration: none;
+}
+
+img{
+    height:270px;
+    width:400px;
+    margin:0;
+    padding:20px;
+}
+
+
+h1 
+{
+     color: skyblue;
+     text-align: center;
+     text-transform: capitalize;
+}

@@ -1,0 +1,25 @@
+button{
+    float: right;
+}
+.container_flex{
+    display: flex;
+    justify-content:space-between;
+
+    /* justify-self: end; */
+}
+.button{
+    height: 40px;
+    color: rgb(9, 128, 142);
+     border: none;
+     font-size: 20px;
+     background-color: white;
+    margin: 20px;
+    /* padding: 10px; */
+    line-height: 30px;
+    width: 200px;
+}
+.button:hover{
+    background-color: rgb(83, 237, 129);
+    color: white;
+    border-radius: 5px;
+}
